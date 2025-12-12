@@ -49,8 +49,8 @@ A space where I build, break, learn, iterate — and document my journey into AI
 
 ### 🤝 Let’s Connect
 
-- 💼 LinkedIn: *(add your link here)*  
-- 📧 Email: *(add your preferred address here)*  
+- 💼 LinkedIn: linkedin.com/in/unaldidata  
+- 📧 Email: unaldidata@gmail.com  
 
 ---
 
